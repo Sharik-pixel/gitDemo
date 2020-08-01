@@ -5,5 +5,7 @@ public class HappyB20 {
         System.out.println("B20 is fun");
 
 
+        // a brand new line is added
+
     }
 }
